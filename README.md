@@ -29,7 +29,6 @@ This project combines **Laravel** as a backend API with **Vue.js** as a frontend
 - Modular folder structure
 
 ---
-
 ## 🖼️ Image Gallery
 
 ### 🔐 Login Page
@@ -49,8 +48,6 @@ This project combines **Laravel** as a backend API with **Vue.js** as a frontend
 
 ### 📝 Edit Info Page
 <img src="https://raw.githubusercontent.com/WaelZaqout/laravel-vue/main/edit.png" width="600"/>
-
----
 
 ## 🚀 How to Run Locally
 
