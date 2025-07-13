@@ -1,44 +1,39 @@
 # Laravel + Vue Project
 
-This is a simple full-stack project using **Laravel (backend)** and **Vue.js (frontend)**.
+This is a full-stack project that combines **Laravel (API backend)** with **Vue.js (frontend)** to build a modern web application.
 
 ---
 
-## 🚀 Features
+## ⚙️ Features
 
-- Laravel API with authentication
-- Vue.js frontend (Vite)
-- Tailwind CSS or Bootstrap (based on setup)
-- Dynamic component rendering
-- RESTful API integration
+- Laravel 11 API
+- Vue 3 + Vite
+- Tailwind CSS or Bootstrap
+- Authentication and dynamic components
+- Clean folder structure
 
 ---
 
 ## 🖼️ Image Gallery
 
-Below are some screenshots of the application:
-
-### 📷 Main Interface
-
-<img src="image.png" alt="Main Interface" width="600"/>
-
-### 📊 Additional View
-
-<img src="0adc6fe6-688b-459a-a6b9-db2858498a2e.png" alt="Additional Screenshot" width="600"/>
+<p float="left">
+  <img src="image.png" alt="Main Interface" width="300"/>
+  <img src="0adc6fe6-688b-459a-a6b9-db2858498a2e.png" alt="Invoice Page" width="300"/>
+</p>
 
 ---
 
-## 🛠️ How to Run Locally
+## 🚀 How to Run Locally
 
 ```bash
-# Backend
+# Backend (Laravel)
 composer install
 cp .env.example .env
 php artisan key:generate
 php artisan migrate
 php artisan serve
 
-# Frontend
+# Frontend (Vue)
 cd frontend
 npm install
 npm run dev
