@@ -42,7 +42,7 @@ This project combines **Laravel** as a backend API with **Vue.js** as a frontend
 ---
 
 ### 📑 Invoice Page
-<img src="https://raw.githubusercontent.com/WaelZaqout/laravel-vue/main/invoice.png" width="600"/>
+<img src="image1.png" width="600"/>
 
 ---
 
