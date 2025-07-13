@@ -15,20 +15,58 @@ This is a full-stack project that combines **Laravel (API backend)** with **Vue.
 ---
 ## 🖼️ Image Gallery
 
-### 📷 Main View
-<img src="image.png" alt="Main Interface" width="600"/>
+# Laravel + Vue Project
 
-### 📄 Invoice View
-<img src="0adc6fe6-688b-459a-a6b9-db2858498a2e.png" alt="Invoice Screenshot" width="600"/>
+This project combines **Laravel** as a backend API with **Vue.js** as a frontend interface.
 
-### 🖼️ Login Page
-<img src="path/to/login-image.png" alt="Login Screenshot" width="600"/>
+---
 
-### 🖼️ Profile Page
-<img src="path/to/profile-image.png" alt="Profile Screenshot" width="600"/>
+## 🧩 Features
 
-### 🖼️ تعديل البيانات
-<img src="path/to/edit-image.png" alt="Edit Info Screenshot" width="600"/>
+- Laravel 11 RESTful API
+- Vue 3 + Vite frontend
+- Auth, profile handling, and dynamic data forms
+- Modular folder structure
+
+---
+
+## 🖼️ Image Gallery
+
+### 🔐 Login Page
+<img src="https://raw.githubusercontent.com/WaelZaqout/laravel-vue/main/login.png" width="600"/>
+
+---
+
+### 👤 Profile Page
+<img src="https://raw.githubusercontent.com/WaelZaqout/laravel-vue/main/profile.png" width="600"/>
+
+---
+
+### 📑 Invoice Page
+<img src="https://raw.githubusercontent.com/WaelZaqout/laravel-vue/main/invoice.png" width="600"/>
+
+---
+
+### 📝 Edit Info Page
+<img src="https://raw.githubusercontent.com/WaelZaqout/laravel-vue/main/edit.png" width="600"/>
+
+---
+
+## 🚀 How to Run Locally
+
+```bash
+# Backend
+composer install
+cp .env.example .env
+php artisan key:generate
+php artisan migrate
+php artisan serve
+
+# Frontend
+cd frontend
+npm install
+npm run dev
+
 
 ---
 
