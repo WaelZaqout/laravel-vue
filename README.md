@@ -13,13 +13,14 @@ This is a full-stack project that combines **Laravel (API backend)** with **Vue.
 - Clean folder structure
 
 ---
-
 ## 🖼️ Image Gallery
 
-<p float="left">
-  <img src="image.png" alt="Main Interface" width="300"/>
-  <img src="0adc6fe6-688b-459a-a6b9-db2858498a2e.png" alt="Invoice Page" width="300"/>
-</p>
+### 📷 Main View
+<img src="image.png" alt="Main Interface" width="600"/>
+
+### 📄 Invoice View
+<img src="0adc6fe6-688b-459a-a6b9-db2858498a2e.png" alt="Invoice Screenshot" width="600"/>
+
 
 ---
 
