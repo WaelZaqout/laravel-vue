@@ -32,7 +32,6 @@ This project combines **Laravel** as a backend API with **Vue.js** as a frontend
 ## 🖼️ Image Gallery
 
 
-
 ### 🔐 Login Page
 <img src="https://raw.githubusercontent.com/WaelZaqout/laravel-vue/main/Login.png" width="600"/>
 
@@ -56,6 +55,7 @@ This project combines **Laravel** as a backend API with **Vue.js** as a frontend
 
 ### 📝 Update Page
 <img src="https://raw.githubusercontent.com/WaelZaqout/laravel-vue/main/update.png" width="600"/>
+
 
 
 ## 🚀 How to Run Locally
